@@ -21,16 +21,16 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*10)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/10/beware-stealer-gta-sa.html"}
-if(x=="2"){xxx="/2017/10/meaning-in-modding-gta-sa.html"}
-if(x=="3"){xxx="/2017/10/create-motorcycle-mod-gta-sa.html"}
-if(x=="4"){xxx="/2017/10/success-becomes-modde-gta-sa.html"}
-if(x=="5"){xxx="/2017/10/tips-and-solutions-zmodeler2.html"}
-if(x=="6"){xxx="/2017/12/creating-back-button-to-previous.html"}
-if(x=="7"){xxx="/2018/03/download-super-seo-template.html"}
-if(x=="8"){xxx="/2018/03/earn-money-from-shortlink.html"}
-if(x=="9"){xxx="/2018/03/script-anti-copas.html"}
-if(x=="10"){xxx="/2018/03/how-to-eliminate-rust-parts-of-chrome.html"}a_to_ve[i].href="https://www.hanmodder.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2018/10/5-things-to-look-for-when-buying-health.html"}
+if(x=="2"){xxx="/2018/10/a-quick-introduction-to-california.html"}
+if(x=="3"){xxx="/2018/10/a-comparison-of-five-pet-health.html"}
+if(x=="4"){xxx="/2018/10/a-new-idea-to-health-insurance-crisis.html"}
+if(x=="5"){xxx="/2018/10/a-quick-introduction-to-california_10.html"}
+if(x=="6"){xxx="/2018/10/basel-ii-implications-for-financial.html"}
+if(x=="7"){xxx="/2018/10/basic-considerations-in-buying-project.html"}
+if(x=="8"){xxx="/2018/10/basics-in-time-management-questions.html"}
+if(x=="9"){xxx="/2018/10/be-there-or-be-talked-about-managing.html"}
+if(x=="10"){xxx="/2018/10/beat-your-competition-with-these-new.html"}a_to_ve[i].href="https://www.hanmodder.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
