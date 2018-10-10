@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/10/5-things-to-look-for-when-buying-health.html"}
 if(x=="2"){xxx="/2018/10/a-quick-introduction-to-california.html"}
 if(x=="3"){xxx="/2018/10/a-comparison-of-five-pet-health.html"}
 if(x=="4"){xxx="/2018/10/a-new-idea-to-health-insurance-crisis.html"}
-if(x=="5"){xxx="/2018/10/a-quick-introduction-to-california_10.html"}
+if(x=="5"){xxx="/2018/10/how-to-eliminate-rust-parts-of-chrome.html"}
 if(x=="6"){xxx="/2018/10/basel-ii-implications-for-financial.html"}
 if(x=="7"){xxx="/2018/10/basic-considerations-in-buying-project.html"}
 if(x=="8"){xxx="/2018/10/basics-in-time-management-questions.html"}
