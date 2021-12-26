@@ -30,7 +30,7 @@ if(x=="6"){xxx="/2018/10/basel-ii-implications-for-financial.html"}
 if(x=="7"){xxx="/2018/10/basic-considerations-in-buying-project.html"}
 if(x=="8"){xxx="/2018/10/basics-in-time-management-questions.html"}
 if(x=="9"){xxx="/2018/10/be-there-or-be-talked-about-managing.html"}
-if(x=="10"){xxx="/2018/10/beat-your-competition-with-these-new.html"}a_to_ve[i].href="https://www.hanmodder.tk"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="10"){xxx="/2018/10/beat-your-competition-with-these-new.html"}a_to_ve[i].href="https://safelinkuyy.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
